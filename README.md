@@ -4,7 +4,7 @@ A lightweight Minecraft Paper API library for tracking AFK players. Exposes a si
 
 ## Installation
 
-Add the dependency to your `build.gradle.kts`:
+Add the dependency to your `build.gradle.kts`, check the current version  on [central](https://central.sonatype.com/artifact/com.system32dev.afkapi/AFKApi):
 
 ```kotlin
 repositories {
